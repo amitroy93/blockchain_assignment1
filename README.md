@@ -30,3 +30,10 @@ and transactionHash​ .
 - Push all the code you write in a github repository and share it with us. Please include the instructions to
 run the server in the README. Cookie points for a clean commit history that reflects your progress.
 - (Optional) Bonus points for including a docker file to spin up everything together.
+
+## Installation steps
+- npm install
+- node blockIndexer.js //it will fetch block and transaction details from kovan test network and store it in mongob.
+- node server.js  // it will provide an api to retrieve the user transactions, given the user address.
+
+
