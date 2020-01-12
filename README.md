@@ -1,6 +1,6 @@
-## MATIC-BlockchainAssignment1
+# BlockchainAssignment1
 
-# Backend Engineer
+## Backend Engineer
 We would appreciate if you could take the time to work on a small project. This assignment will help us gauge
 your programming skills. In addition to that and irrespective of the outcome, it will also be an interesting
 exercise for you to get to know more about the ethereum blockchain.
@@ -16,7 +16,7 @@ user signed transactions. This node may be run locally but for a lot of tasks it
 - A valid user address ethereum is a 20 byte value that is generated from a 32 byte randomly generated
 private key.
 
-# Basic outline of the steps to follow:
+## Basic outline of the steps to follow:
 - Connect to an Ethereum node (hosted by Infura) using ​ web3js​ on the Kovan testnet. ​ Reference​ .
 - You can use this blockchain testnet API endpoint on Infura:
 kovan.infura.io/v3/5e66f831443940ed88e9adca82578c2b
